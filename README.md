@@ -1,4 +1,4 @@
-# Nobu - A Lightweight Code Editor
+# Nobu - A Lightweight Python-based Code Editor
 
 Nobu is a lightweight, customizable, and cross-platform text editor built with Python and Tkinter. It supports syntax highlighting for multiple programming languages, auto-saving, zooming, and more. Whether you're writing code, editing text files, or working on HTML/CSS/JS projects, Nobu is designed to make your workflow smoother.
 
